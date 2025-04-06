@@ -89,12 +89,12 @@ Let's connect over innovation, code, and creativity!
 
 {/* Image Section */}
 <div className="md:w-1/2 flex justify-center">
-  <img
-    src={myPic}
-    alt="Anshul"
-    className="w-72 h-72 md:w-96 md:h-96 rounded-full object-cover border-4 border-purple-400 shadow-lg 
-               transition-transform duration-300 hover:scale-105 hover:shadow-purple-400 hover:shadow-lg"
-  />
+<img
+  src="/anshul.png"
+  alt="Anshul"
+  className="w-72 h-72 md:w-96 md:h-96 rounded-full object-cover border-4 border-purple-400 shadow-lg 
+             transition-transform duration-300 hover:scale-105 hover:shadow-purple-400 hover:shadow-lg"
+/>
 </div>
 
       </div>
